@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyanshugetrekt.github.io/hearth-simple-mac-for-seniors/sitemap.xml
